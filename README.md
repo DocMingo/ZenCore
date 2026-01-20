@@ -44,7 +44,7 @@
 没有复杂的配置文件，甚至不需要初始化。
 
 ```cpp
-#include "zencore/log.hpp"
+#include "zen/log.hpp"
 
 using namespace zencore;
 
